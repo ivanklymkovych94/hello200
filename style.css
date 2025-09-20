@@ -1,0 +1,48 @@
+/* h1{
+    color: brown;
+    font-size: 30px;
+} */
+.div3{
+    width: 400px;
+    height: 300px;
+ }
+div{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+ }
+ .div1{
+background-color: blueviolet;
+color: beige;
+border: 2px solid black;
+ }
+ .div2{
+    background-color: blue;
+    color: chartreuse;
+    border: 4px solid rgb(97, 13, 177);
+ }
+h2{
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+.hr{
+    height: 4px;
+    background-color: black;
+}
+.el{
+    color: yellow;
+}
+.img1{
+    width: 500px;
+    height: 200px;
+    margin-left: 700px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+/* Створити сторінку з гімном України, по центу Гімн України різним кольором, далі з боків автор слів автор музики
+Заспів синім кольором, приспів жовтим кольором, доти жирність і курсив , додати посилання на вікіпедію про Уркаїну,
+додати 2-3 картинки про Україну, і додати стилістику по бажанню */
